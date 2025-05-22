@@ -52,7 +52,7 @@
     display            : inline-block;
     width              : 26px;
     height             : 26px;
-    background-image   : url(/icon-delete-light.png);
+    background-image   : url('../../assets/icons/icon-delete-light.png');
     background-size    : contain;
     background-repeat  : no-repeat;
     background-position: center;
@@ -61,5 +61,5 @@
 }
 
 .delete-btn:hover {
-    background-image: url(/icon-delete.png);
+    background-image: url('../../assets/icons/icon-delete.png');
 }
